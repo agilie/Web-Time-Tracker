@@ -1,0 +1,23 @@
+{
+  "name": "jquery-plugin-time-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-minify": "0.0.15",
+    "gulp-remove-logging": "^1.2.0",
+    "gulp-run-sequence": "^0.3.2",
+    "jshint": "^2.9.4",
+    "yargs": "^3.15.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "description": ""
+}
