@@ -1,3 +1,4 @@
+# Web Time Tracker
 Plugin named **Timetracker** is a time counter that works in both increase and decrease directions. It can be embedded in websites and used as a timer, tracker, counting down tool and in any other situation where you need to control elapsed time (for example, during online testing).
 **Timetracker** plugin can be adapted to any web resource and designed in accordance with the website style.
 For initialization, use the command:
@@ -61,3 +62,10 @@ Here we can show you an example of tracker usage:
 </body>
 </html>
 ```
+
+## Troubleshooting
+Problems? Check the [Issues](https://github.com/agilie/Web-Time-Tracker/issues) block 
+to find the solution or create an new issue that we will fix asap. Feel free to contribute.
+
+## License
+The [MIT](https://github.com/agilie/Web-Time-Tracker/blob/master/LICENSE.md) License (MIT) Copyright © 2017 [Agilie Team](https://www.agilie.com)
