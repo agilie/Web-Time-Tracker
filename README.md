@@ -68,8 +68,10 @@ Problems? Check the [Issues](https://github.com/agilie/Web-Time-Tracker/issues) 
 to find the solution or create an new issue that we will fix asap. Feel free to contribute.
 
 ## Author
-
 This jQuery plugin is open-sourced by [Agilie Team](https://www.agilie.com) ([info@agilie.com](mailto:info@agilie.com))
+
+## Contributor
+[Petr Simanko](https://github.com/PetrSimanko) ([petr.simanko@agilie.com](mailto:petr.simanko@agilie.com))
 
 ## License
 The [MIT](https://github.com/agilie/Web-Time-Tracker/blob/master/LICENSE.md) License (MIT) Copyright © 2017 [Agilie Team](https://www.agilie.com)
