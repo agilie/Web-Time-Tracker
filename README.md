@@ -1,3 +1,5 @@
+[MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 # Web Time Tracker
 Plugin named **Timetracker** is a time counter that works in both increase and decrease directions. It can be embedded in websites and used as a timer, tracker, counting down tool and in any other situation where you need to control elapsed time (for example, during online testing).
 **Timetracker** plugin can be adapted to any web resource and designed in accordance with the website style.
