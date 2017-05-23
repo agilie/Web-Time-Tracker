@@ -1,11 +1,14 @@
 {
   "name": "jquery-plugin-time-tracker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Agilie Team <info@agilie.com>",
+  "contributors": [
+    "Petr Simanko <petr.simanko@agilie.com> (https://github.com/PetrSimanko)"
+  ],
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
@@ -19,5 +22,5 @@
   "dependencies": {
     "gulp": "^3.9.1"
   },
-  "description": ""
+  "description": "Plugin named Timetracker is a time counter that works in both increase and decrease directions."
 }
