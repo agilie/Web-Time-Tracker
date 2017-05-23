@@ -1,4 +1,4 @@
-[MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/agilie/Web-Time-Tracker)
 
 # Web Time Tracker
 Plugin named **Timetracker** is a time counter that works in both increase and decrease directions. It can be embedded in websites and used as a timer, tracker, counting down tool and in any other situation where you need to control elapsed time (for example, during online testing).
