@@ -73,7 +73,12 @@ to find the solution or create an new issue that we will fix asap. Feel free to 
 This jQuery plugin is open-sourced by [Agilie Team](https://www.agilie.com) ([info@agilie.com](mailto:info@agilie.com))
 
 ## Contributor
-[Petr Simanko](https://github.com/PetrSimanko) ([petr.simanko@agilie.com](mailto:petr.simanko@agilie.com))
+[Petr Simanko](https://github.com/PetrSimanko)
+
+## Contact us
+If you have any questions, suggestions or just need a help with web or mobile development, please email us at <web@agilie.com>. You can ask us anything from basic to complex questions. 
+
+We will continue publishing new open-source projects. Stay with us, more updates will follow!
 
 ## License
 The [MIT](https://github.com/agilie/Web-Time-Tracker/blob/master/LICENSE.md) License (MIT) Copyright © 2017 [Agilie Team](https://www.agilie.com)
